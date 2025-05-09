@@ -1,17 +1,17 @@
 {
   "extension_name": {
-    "message": "Amazon Quick Access"
+    "message": "Amazon Hızlı Erişim"
   },
   "extension_description": {
-    "message": "Quickly access Amazon and search selected text."
+    "message": "Amazon'a hızlıca erişin ve seçili metni arayın."
   },
   "button_open_amazon": {
-    "message": "Go to Amazon $1"
+    "message": "Amazon $1'a Git"
   },
   "select_region_label": {
-    "message": "Region:"
+    "message": "Bölge:"
   },
   "extension_go_to": {
-    "message": "Find \"%s\" on $1"
+    "message": "$1'da \"%s\" ara"
   }
 }

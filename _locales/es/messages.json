@@ -1,17 +1,17 @@
 {
   "extension_name": {
-    "message": "Amazon Quick Access"
+    "message": "Acceso Rápido a Amazon"
   },
   "extension_description": {
-    "message": "Quickly access Amazon and search selected text."
+    "message": "Accede rápidamente a Amazon y busca el texto seleccionado."
   },
   "button_open_amazon": {
-    "message": "Go to Amazon $1"
+    "message": "Ir a Amazon $1"
   },
   "select_region_label": {
-    "message": "Region:"
+    "message": "Región:"
   },
   "extension_go_to": {
-    "message": "Find \"%s\" on $1"
+    "message": "Buscar \"%s\" en $1"
   }
 }

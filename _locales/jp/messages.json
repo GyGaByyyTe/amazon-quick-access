@@ -1,17 +1,17 @@
 {
   "extension_name": {
-    "message": "Amazon Quick Access"
+    "message": "Amazonクイックアクセス"
   },
   "extension_description": {
-    "message": "Quickly access Amazon and search selected text."
+    "message": "Amazonに素早くアクセスし、選択したテキストを検索します。"
   },
   "button_open_amazon": {
-    "message": "Go to Amazon $1"
+    "message": "Amazon $1へ移動"
   },
   "select_region_label": {
-    "message": "Region:"
+    "message": "地域："
   },
   "extension_go_to": {
-    "message": "Find \"%s\" on $1"
+    "message": "$1で「%s」を検索"
   }
 }
