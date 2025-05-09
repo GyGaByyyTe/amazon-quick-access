@@ -6,12 +6,12 @@
     "message": "快速访问亚马逊并搜索选中的文本。"
   },
   "button_open_amazon": {
-    "message": "前往亚马逊$1"
+    "message": "前往亚马逊 $1"
   },
   "select_region_label": {
     "message": "地区："
   },
   "extension_go_to": {
-    "message": "在$1上查找\"%s\""
+    "message": "在 $1 上查找 \"%s\""
   }
 }
