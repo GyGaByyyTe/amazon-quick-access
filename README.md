@@ -1,12 +1,12 @@
-# Amazon Quick Access
+# Amazon Quick Access (Published.Active)
 
 A Chrome extension that allows quick searching of selected text across various regional Amazon websites.
 
 ## Overview
-This Chrome extension provides a convenient way to search products on Amazon using either the popup interface or context menu. It supports multiple regional domains and offers a user-friendly interface for quick access to Amazon search functionality.
+This Chrome extension provides a convenient way to search for products on Amazon using either the popup interface or context menu. It supports multiple regional domains and offers a user-friendly interface for quick access to Amazon search functionality.
 
 ## Features
-- Search selected text on Amazon through context menu
+- Search a selected text on Amazon through a context menu
 - Choose Amazon region (domain) for search
 - Support for 20 regional Amazon domains
 - Interface localization for all supported regions
@@ -16,7 +16,7 @@ This Chrome extension provides a convenient way to search products on Amazon usi
 
 ## Installation
 
-1. Download the extension from Chrome Web Store
+1. Download the extension from [Chrome Web Store](https://chromewebstore.google.com/detail/amazon-quick-access/hdjbgcfphpnbbndnnkplclkfjaedmhbe)
 2. Or install in developer mode:
    - Unpack the extension archive
    - Open Chrome and go to chrome://extensions/
@@ -35,7 +35,7 @@ This Chrome extension provides a convenient way to search products on Amazon usi
 ### Region Selection
 1. Click the extension icon in Chrome's toolbar
 2. Select the desired region from the dropdown list
-3. The selected region will be used for all subsequent searches
+3. The selected region will be used for all later searches
 
 ## Supported Regions
 - United States (amazon.com)
@@ -85,7 +85,7 @@ This Chrome extension provides a convenient way to search products on Amazon usi
 #### Background Service (background.js)
 - Context menu creation and management
 - Message handling between popup and background
-- Search execution through context menu
+- Search execution through a context menu
 
 ### Localization
 Localization is automatically generated using the `_locales/generator.js` script. To add a new region:
@@ -117,4 +117,4 @@ No build process is required. The extension can be loaded directly in Chrome.
 For support, please open an issue in the repository.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is licensed under the MIT License — see the LICENSE file for details. 
